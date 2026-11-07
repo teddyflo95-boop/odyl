@@ -53,7 +53,7 @@ Updates kommen automatisch. Odyl fragt alle zehn Minuten nach und installiert, s
 Odyl kann Aufgaben von selbst abhaken. Dafür liest es den **Netzwerkverkehr des Spiels auf deinem eigenen PC passiv mit**, so wie es verbreitete DPS-Meter tun. Es verändert nichts, sendet nichts an das Spiel und greift nicht in den Spielclient ein.
 
 - Gelesen werden Eintritte, Belohnungen, Odenergie, Schlüssel und die Anwesenheit bei Events.
-- Es braucht [Npcap](https://npcap.com), das du selbst installierst.
+- Es braucht [Npcap](https://npcap.com). Odyl lädt den offiziellen Installer auf Knopfdruck von npcap.com und startet ihn (Npcap selbst wird nicht mitgeliefert); du kannst ihn auch selbst installieren.
 - **Das Risiko für deinen Account bleibt.** NCSOFT hat dieses Mitlesen nicht genehmigt. Die Regeln verbieten „nicht autorisierte Programme“, passives Mitlesen wird dort nicht ausdrücklich genannt. Viele Spieler nutzen solche Werkzeuge, aber es ist deine Entscheidung. Odyl erklärt das beim Einschalten noch einmal und lässt sich jederzeit wieder ausschalten.
 - Alles andere in Odyl funktioniert ohne das Mitlesen vollständig.
 - Mitgelesene Daten bleiben auf deinem PC. Daten anderer Spieler werden nicht ausgewertet und nicht hochgeladen.
