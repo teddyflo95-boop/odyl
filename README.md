@@ -32,6 +32,10 @@
 
 *Beispieldaten. Die Namen der starken Spieler stammen aus den Bestenlisten von [MetaBot](https://metabot.gg/en/aion-2/leaderboards), die Profile holt Odyl bei NCSOFT.*
 
+**Pantheon**
+- Das Pantheon wie im Spiel (Kolossus, 4 Statuen, 12 Gemälde) mit den Bildern von NCSOFT und den Götterpunkten. Odyl zeigt, was sich für deine Ziel-Werte lohnt, und eine Reihenfolge von einfach nach schwer zu bekommen, mit Fundort und Aufwand. Du stellst Fraktion und Ziel ein und hakst ab, was du schon hast.
+- Namen und Punkte stammen aus den deutschen Global-Listen von [Wakayashi](https://wakayashi.gg/aion2#pantheon), Bilder, Stufen und Fundorte aus dem Katalog von NCSOFT. Wo sich Quellen widersprechen, steht ein Fragezeichen.
+
 **Alltag**
 - Kompaktes Fenster, das neben dem Spiel liegen kann.
 - Läuft im Tray, startet auf Wunsch mit Windows, installiert Updates von selbst, sobald das Fenster nicht im Weg ist.
